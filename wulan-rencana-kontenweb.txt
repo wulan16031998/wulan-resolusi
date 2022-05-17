@@ -4,3 +4,4 @@ rencana konten web
 -saya akann buat web sekolah
 -saya akan buat web warung makan
 -saya akan buat konten registrasi pendaftaran
+-saya akan tambahkan menu kontak
